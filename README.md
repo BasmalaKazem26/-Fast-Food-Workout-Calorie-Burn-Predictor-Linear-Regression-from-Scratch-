@@ -58,6 +58,4 @@ The dataset (`fast_food_cheat_meal_workout_burn.csv`) contains multiple attribut
 * **Machine Learning Utilities:** Scikit-Learn (`train_test_split`)[cite: 1]
 * **Data Visualization:** Matplotlib[cite: 1]
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+
